@@ -23,7 +23,7 @@
    
    Contact Me
    
-   <a href="https://t.me/SajjadGhasemi72">
+   <a href="https://t.me/SajjadGhasemi">
    
    
    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -33,7 +33,7 @@
    </a>
    
    
-   <a href="https://instagram.com/sajjadghasemi72">
+   <a href="https://instagram.com/sajjjadghasemi">
 
    
    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
