@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadGhasemi&theme=tokyonight&show_icons=true)
-      <h4>Web Developer</h4>  
+
+ <h4>Hello and welcome, I'm Sajjad and i'm a Web Developer</h4>
       
   Languages
    
@@ -49,9 +50,3 @@
    <a href="mailto: sajjadjoon72klaus23@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
    <a href="mailto: sajjadjoon72@yahoo.com">![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)</a>
    <a href="https://soundcloud.com/user-54872385/">![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)</a>
-   
-   
-   
-   
-   
-   
