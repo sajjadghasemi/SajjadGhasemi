@@ -46,8 +46,8 @@
    <a href="https://t.me/SajjadGhasemi">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
    <a href="https://instagram.com/sajjjadghasemi">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
    <a href="https://www.linkedin.com/in/sajjad-ghasemi-46b394242/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-   <a href="https://sajjadjoon72klaus23@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-   <a href="https://sajjadjoon72@yahoo.com">![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)</a>
+   <a href="mailto: sajjadjoon72klaus23@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+   <a href="mailto: sajjadjoon72@yahoo.com">![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)</a>
    <a href="https://soundcloud.com/user-54872385/">![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)</a>
    
    
