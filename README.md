@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadGhasemi&theme=tokyonight&show_icons=true)
-
  <h5>Hello and welcome, I'm Sajjad, I'm a Web Developer.</h5>
       
   Languages
